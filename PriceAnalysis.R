@@ -1,0 +1,5 @@
+library(klaR)
+library(caret)
+library(rpart)
+library(rpart.plot)
+a_vehicles <- read.csv('Australian Vehicle Prices.csv')
